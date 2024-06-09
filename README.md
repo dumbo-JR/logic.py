@@ -1,4 +1,4 @@
-# nmap Simplifier
+# Logic.py
 
 ![Nmap Simplifier](https://img.shields.io/badge/nmap-Simplifier-brightgreen.svg)
 
@@ -16,7 +16,7 @@ Welcome to **nmap Simplifier**, a Python script designed to make `nmap` (Network
 
 ## Introduction
 
-`nmap` is a powerful network scanning tool used for network discovery and security auditing. However, its vast array of options can be overwhelming for beginners. The `nmap Simplifier` script aims to ease this learning curve by providing a simplified command-line interface for common `nmap` operations.
+`nmap` is a powerful network scanning tool used for network discovery and security auditing. However, its vast array of options can be overwhelming for beginners. The `Logic.py` script aims to ease this learning curve by providing a simplified command-line interface for common `nmap` operations.
 
 ## Features
 
@@ -29,5 +29,5 @@ Welcome to **nmap Simplifier**, a Python script designed to make `nmap` (Network
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/nmap-simplifier.git
-   cd nmap-simplifier
+   git clone https://github.com/dumbo-JR/logic.py.git
+   cd logic
